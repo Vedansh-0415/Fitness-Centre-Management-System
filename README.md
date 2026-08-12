@@ -128,6 +128,6 @@ fitness_centre_project/
 
 ## 👨‍💻 Author
 
-- **Vedansh** — Cyber Security student, PSIT Kanpur
+- **Vedansh** — Class 10th student, Khelgaon Public School
 
 ⭐ If you found this project useful, consider giving it a star!
